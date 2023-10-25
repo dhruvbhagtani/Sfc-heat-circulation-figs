@@ -51,7 +51,7 @@ This eddy-permitting model is run for 200 years (more details present in Section
 | Uniform warming      | `025deg_jra55_ryf_fluxH_pos5W_globe` | 1 | 0, instead spatially uniform +5 | G |
 
 
-Each flux-forced perturbation experiment is run for 100 years. Outputs for each experiment can be found on the National Computational Infrastructure in the following directory: `/g/data/hh5/tmp/db6174/mom/archive`. Access to these outputs requires one to be a member of this infrastructure. Therefore, a copy of these files will be made available in a Zenodo repository after acceptance of this manuscript.
+Each flux-forced perturbation experiment is run for 100 years. Outputs for each experiment can be found on the National Computational Infrastructure in the following directory: `/g/data/hh5/tmp/db6174/mom/archive`. Access to these outputs requires one to be a member of this infrastructure. Therefore, a copy of pre-processed files are available at the following Zenodo repository to reproduce figures: 10.5281/zenodo.8405008.
 
 Finally, the MOM5 version used for the perturbation experiments is: https://github.com/dhruvbhagtani/MOM5/tree/d7d72278a11ed9e2d88be3cb8d780b8efba629c5.
 
